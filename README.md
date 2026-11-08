@@ -1,3 +1,18 @@
+<!-- migrated-maintenance-entry-2026-11-08 -->
+# Chuan-LLM-Study-Community：维护入口迁移
+
+> 2026-11-08：按维护者决定整理留存。
+
+**后续维护统一到[MyNote](https://github.com/OGAS-45/MyNote/tree/graph/学习资料)。** 18篇正文与LLM-Notes-Chuan的同路径文件逐字一致，在统一知识库只维护一份；本仓原始说明与正文去重映射已留存。
+
+接收提交：`5592a3e621d6b61a22b9f39dca70d8e9993c3555`。本仓保留原文件、分支与历史作为来源；后续不再重复维护这份资料。
+
+这是维护安排，不代表平台只读归档已开启。
+
+---
+
+## 原始资料说明（历史）
+
 # Chuan-LLM-Study-Community
 
 一个从我自己独立学习到发现可以帮助其他人学习了解大模型的小社区
